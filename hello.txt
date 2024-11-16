@@ -1,0 +1,6 @@
+Hello, World!
+Welcome to the world of coding.
+This is a simple text file created to demonstrate file operations in the shell.
+Feel free to modify or add more content as needed.
+
+Happy learning!
